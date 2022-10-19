@@ -4,7 +4,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Simple example code
-![img_3.png](img_3.png)
+![image](https://user-images.githubusercontent.com/67202106/196662703-a15c5a47-5d3f-4bed-b888-ce42ac7e1549.png)
 
 ### Available props
 
